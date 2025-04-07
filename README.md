@@ -69,9 +69,9 @@ This project helped me understand the **power of prompt design** and how a small
 
 Review: The book I received was damaged. The cover had scratches.
 Classification: Product Quality
-```
 
-```
+
+
 Prompt: Suggest a name for a waterproof backpack.
 Response (Temperature=1): AquaShield Voyager
 
